@@ -57,7 +57,7 @@ const PROJECTS: Project[] = [
     tagline: 'Full Stack MERN E-Commerce Platform',
     stack: ['MongoDB', 'Express.js', 'React', 'Node.js'],
     category: 'E-Commerce',
-    liveUrl: 'https://cartnow.com',
+    liveUrl: 'link-to-cartnow-project',
     // remaining images for CartNow project
     col1Image1: 'cartnow-1.png',
     col1Image2: 'cartnow-2.png',
